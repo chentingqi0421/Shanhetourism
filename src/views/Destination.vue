@@ -118,27 +118,27 @@ checkcity:sessionStorage.getItem('checkcity'),
         {
           id: 1,
           title: "上帝的着色板新疆",
-          idView: "https://i.loli.net/2020/12/05/qWHmb7U3Npwr4SA.jpg",
+          idView: "http://119.29.36.88:2020/share/images1624242540415.png",
         },
         {
           id: 2,
           title: "雾里看徽州",
-          idView: "https://i.loli.net/2020/12/05/WTVCkAUwtsbizgF.jpg",
+          idView: "http://119.29.36.88:2020/share/images1624242536663.png",
         },
         {
           id: 3,
           title: "神山的庇护",
-          idView: "https://i.loli.net/2020/12/05/6lNEpbXGLJw5TQf.jpg",
+          idView: "http://119.29.36.88:2020/share/images1624242544396.png",
         },
         {
           id: 4,
           title: "阿勒泰的秋",
-          idView: "https://i.loli.net/2020/12/05/Q5bthxdAYHK2eEN.jpg",
+          idView: "http://119.29.36.88:2020/share/images1624242534778.png",
         },
         {
           id: 5,
           title: "遗落人间的仙境",
-          idView: "https://i.loli.net/2020/12/05/A7QiyS3gmCxnTzL.jpg",
+          idView: "http://119.29.36.88:2020/share/images1624242542328.png",
         },
       ],
     };

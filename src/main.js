@@ -67,7 +67,7 @@ Card
 
 
 import "lib-flexible/flexible"
-// import './assets/js/appback'
+import './assets/js/appback'
 
 
 //全局注册
